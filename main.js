@@ -1,4 +1,3 @@
-
 const m = new APIManager()
 
 const loadDate = function(){
@@ -17,7 +16,7 @@ const display = function () {
     re.putFriends()
     re.putQuote()
     re.putPoky()
-    re.putMent()
+    re.putPoky()
 
   }
 
